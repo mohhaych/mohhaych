@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing an internship at SAP as a information systems associate. I'm a second year computer science student at Goldsmiths University, currently on my sandwich/placement year after finishing my second year at universtiy, passionate about exploring the realms of coding, machine learning, software development and building robust applications.<br><br>🔭 
+I am currently doing an internship at SAP as an information systems associate. I'm a second year computer science student at Goldsmiths University, currently on my sandwich/placement year after finishing my second year at universtiy, passionate about exploring the realms of coding, machine learning, software development and building robust applications.<br><br>🔭 
 
 
 ## 🌐 Socials:
