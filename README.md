@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a second year computer science student at Goldsmiths University, passionate about exploring the realms of coding, machine learning, software development and building robust applications.<br><br>🔭 I’m currently developing a full stack web application for a group project<br>🌱 I’m currently learning full stack development with react and node.js and mySQL<br>⚡ Fun fact I am passionate about exploring new opportunities
+I am currently doing an internship at SAP as a information systems associate. I'm a second year computer science student at Goldsmiths University, currently on my sandwich/placement year after finishing my second year at universtiy, passionate about exploring the realms of coding, machine learning, software development and building robust applications.<br><br>🔭 
 
 
 ## 🌐 Socials:
