@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am currently doing an internship at SAP as an information systems associate. I'm a second year computer science student at Goldsmiths University, currently on my sandwich/placement year after finishing my second year at university, passionate about exploring the realms of coding, machine learning, software development and building robust applications.<br><br>🔭 
+I am a final-year Computer Science undergraduate at Goldsmiths, University of London with a strong focus on software engineering, full-stack development, and AI-driven solutions. My expertise spans Python, Java, JavaScript, React, Node.js, MongoDB, Flask, and cloud-native technologies, underpinned by academic knowledge of data structures, algorithms, and software architecture.
+
+I gained valuable industry experience during a 13-month placement at SAP as an IT/Systems Associate, where I contributed to enterprise IT support, systems optimisation, automation, and technical troubleshooting. Working in a large-scale enterprise environment gave me hands-on exposure to cloud-based platforms, IT operations, system performance monitoring, and incident resolution, while collaborating with cross-functional teams and adhering to agile methodologies.
+
+Alongside this, I have designed and deployed end-to-end software projects that showcase my technical capabilities and problem-solving skills:
+
+Full-Stack MERN E-Commerce Website (2025) – Developed and deployed a full-stack e-commerce platform using MongoDB, Express, React, Node.js, and Redux. Implemented secure authentication, shopping cart, order processing, REST APIs, responsive UI, and CI/CD pipelines, demonstrating complete SDLC and scalable architecture.
+
+AI-Powered Task Manager (2025) – Built an intelligent task management system with Python, Flask, React, and cloud-based databases, integrating NLP and ML algorithms for smart prioritisation, predictive analytics, and real-time notifications. Delivered user authentication, dashboards, and cloud deployment, highlighting expertise in AI/ML integration, full-stack development, and cloud scalability.
+
+In addition to my technical experience, I am a certified SAP Cloud Native Developer and currently serve as a Teaching Assistant, supporting first and second-year students with programming, coursework, and assessments. This role has strengthened my mentorship, technical communication, and leadership skills.
+
+I am actively seeking opportunities in graduate software engineering, AI engineering, cloud engineering, and technology consulting, where I can apply my full-stack expertise, cloud-native knowledge, and AI/ML development skills to create scalable, innovative, and high-impact solutions.<br><br>🔭 
 
 
 ## 🌐 Socials:
